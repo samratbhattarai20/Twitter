@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/73952095/136449936-3d322ab4-fbd9-4db8-b273-35b66f139803.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # Project 3 - *Name of App Here*
 
